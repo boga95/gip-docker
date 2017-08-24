@@ -14,7 +14,3 @@ Source code: https://github.com/p0bailey/docker-flask
 DockerHub: https://hub.docker.com/r/p0bailey/docker-flask/
 
 ![Hello Flask][2]
-
-
-
-[2]: http://s14.postimg.org/mwmg7p0v5/hello_flask.png
